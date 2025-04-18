@@ -1,6 +1,6 @@
 {
   "name": "windows",
   "service": "windows",
-  "forwardPorts": [8006],
+  "forwardPorts": [8006,3389],
   "dockerComposeFile": "compose.yml"
 }
